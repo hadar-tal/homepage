@@ -19,11 +19,11 @@ Education
 
 Work experience
 ======
-* 2022 – 2023: **Backend Developer**, Cycode  
+* 2022 – 2023: **Backend Developer**, [Cycode](https://cycode.com/)
   * Designed and developed a cloud-native security solution safeguarding the SDLC.
   * Owned critical capabilities involving concurrent processing.
 
-* 2021 – 2022: **Backend Developer**, PerimeterX (now HUMAN) 
+* 2021 – 2022: **Backend Developer**, [PerimeterX (now HUMAN)](https://www.humansecurity.com/)
   * Developed and maintained a scalable cloud-native security solution.
   * Worked with a team of developers and researchers to ensure high-quality deliverables.
 
