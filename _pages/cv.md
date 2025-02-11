@@ -40,8 +40,9 @@ redirect_from:
   * Created and conducted educational activities.
 
 ## Skills
+* **Machine Learning & Data Science:** NumPy, SciPy, Scikit-Learn, Matplotlib, Pandas, PyTorch, Gymnasium
 * **Programming Languages:** Python, Golang, NodeJS, Java, C#
-* **Databases:** Redis, Oracle DB, ElasticSearch, ArangoDB, Hadoop, BigQuery, Kafka, MongoDB
+* **Databases:** Redis, MySQL, MongoDB, ElasticSearch, ArangoDB, Hadoop, BigQuery, Kafka
 * **Cloud & Infrastructure:** GCP, AWS, GCS, S3, Kubernetes, Docker
 * **CI/CD & DevOps:** Git, GitHub Actions, Jenkins, CircleCI, Ansible, Prometheus, Grafana
 * **Web Technologies:** Angular 4-11, TypeScript
