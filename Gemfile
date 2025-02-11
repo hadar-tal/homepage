@@ -9,6 +9,5 @@ group :jekyll_plugins do
   gem 'webrick', '~> 1.8'
 end
 
-gem install jekyll-analytics
 gem 'github-pages'
 
